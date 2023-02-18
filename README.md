@@ -1,5 +1,5 @@
 
-# Welcome to your CDK Python project!
+# AWS API Gateway OpenID Connect
 
 This solution performs a poc of Open ID Connect in AWS API Gateway. It creates 1 api gateway, 3 Lambda Functions (caller, backend and authorizer) and a shared Lambda layer for storing the required library to verify the jwt token.
 
